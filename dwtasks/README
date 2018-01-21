@@ -1,0 +1,30 @@
+task1 : recursively whole json file is parsed and value of quantity is changed 
+
+
+
+tasks2 : last 10 years  ace percentage, serve point winning percentage and reverse point winning percentage is parsed 
+	 from url for RogerFederer 
+
+
+
+task3:
+
+folliwing code can generate the random number which are biased 77% toward higher number
+
+it contains the class which takes the following input
+1: minimum value
+2: maximum value
+3: number of samples required
+
+example :
+s=Custom_Random(low=0, high=100,samples=10)
+s.generate()
+s.output
+
+
+*s is the object of custom random class
+*generate method of object will generate random numbers 77% toward higher number
+*to check output call member of class object stored in list with name s.output this will return the list of random number with required output
+
+
+
