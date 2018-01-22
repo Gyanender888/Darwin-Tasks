@@ -36,8 +36,8 @@ for key in data.keys():
     print "\n \n \n"
 
 print "Ace percentage avg {}".format(ace_avg/len(data))
-print "rpw_avg percentage avg {}".format(ace_avg/len(data))
-print "spw_avg percentage avg {}".format(ace_avg/len(data))
+print "rpw_avg percentage avg {}".format(rpw_avg/len(data))
+print "spw_avg percentage avg {}".format(spw_avg/len(data))
 
 
 
